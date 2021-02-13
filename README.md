@@ -1,2 +1,4 @@
 Hi there 👋 \
-My name is Nick Mikrou. Welcome to my Github profile!
+Welcome to my Github profile!
+
+My name is Nick and i am undergraduate student of Computer Science.
